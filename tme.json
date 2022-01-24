@@ -1,0 +1,19 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tme"},
+{"type":"table","name":"articles","database":"tme","data":
+[
+{"id":"1","nom_article":"tee shirt classic 001","description_":"Le tee shirt est un maillot à manches courtes en forme de T. Le t-shirt peut être éventuellement confectionné avec des manches longues, Il est généralement fabriqué en coton ou en polyester. Son nom vient de sa forme en T, prononcé « ti » en anglais et « ","prix":"88","categorie":"Mode &amp; beaute","statut":"En stock","image_":"category-page-04-image-card-11.jpg","auteur_article":"Abdoulaye","date_time_publication":"2022-01-23","date_time_edition":"2022-01-24"},
+{"id":"2","nom_article":"T-shirt blanc\/noir homme","description_":"Tee shirt homme Supra Sketchscript Manches courtes Col rond Signature Supra imprimée sur la poitrine Coloris: blanc \/ noir Composition: 100% coto","prix":"78","categorie":"Mode &amp; beaute","statut":"Rupture de stock","image_":"category-page-04-image-card-09.jpg","auteur_article":"Amath","date_time_publication":"2022-01-23","date_time_edition":"2022-01-23"},
+{"id":"3","nom_article":"LEE Double T-shirt ras Taille-42","description_":"coupe slim? Tee-shirt col rond avec manches courtes, col côtelé en 100% coton. un noir, un blanc. Color:Multicoloured (2 Pack Mix Aild) Size:XX-Large","prix":"150","categorie":"Mode &amp; beaute","statut":"En stock","image_":"category-page-04-image-card-12.jpg","auteur_article":"Amath","date_time_publication":"2022-01-23","date_time_edition":"2022-01-23"},
+{"id":"4","nom_article":"Saté V5","description_":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu&#039;il est prêt ou que la mise en page est achevée. Généralement,","prix":"13","categorie":"Matériel Pro","statut":"Prêt pour l&#039;expédition","image_":"category-page-04-image-card-07.jpg","auteur_article":"Abdoulaye","date_time_publication":"2022-01-23","date_time_edition":null},
+{"id":"5","nom_article":"Boutteille Classic 36","description_":"Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page, le texte définitif venant remplacer le faux-texte dès qu&#039;il est prêt ou que la mise en page est achevée. Généralement,","prix":"45","categorie":"Pour la maison","statut":"Commande sur demande","image_":"category-page-04-image-card-01.jpg","auteur_article":"Abdoulaye","date_time_publication":"2022-01-23","date_time_edition":null}
+]
+}
+,{"type":"table","name":"user","database":"tme","data":
+[
+{"id":"1","prenom":"Abdoulaye","nom":"GAYE","e_mail":"ablayegaye207@gmail.com","mot_de_passe":"0a89db47b6dfdceff5d5e48a1114f5dc","telephone":"+221778585507","ville":"Dakar","check_ok":"0"},
+{"id":"2","prenom":"Amath","nom":"Ka","e_mail":"koppochoa98@gmail.com","mot_de_passe":"f2393ee104ad4a611ec35d43b8533b12","telephone":"+221784207831","ville":"Dakar","check_ok":"0"}
+]
+}
+]
